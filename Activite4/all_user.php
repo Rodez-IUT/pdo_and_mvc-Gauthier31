@@ -1,6 +1,6 @@
-!DOCTYPE html
-html lang=en
-head
+<!DOCTYPE html>
+<html lang=en>
+<head>
     meta charset=UTF-8
     titleAll userstitle
     style
@@ -15,7 +15,7 @@ head
             border-bottom 1px solid #ddd;
         }
     style
-head
+<head>
 body
 
 php
